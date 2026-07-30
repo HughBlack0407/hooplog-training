@@ -1,0 +1,10 @@
+{
+  "name": "HOOPLOG 个人训练日志",
+  "short_name": "HOOPLOG",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f1eb",
+  "theme_color": "#121212",
+  "description": "记录每次训练，让每一次出手都有方向。"
+}
