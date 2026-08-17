@@ -1,4 +1,4 @@
-const CACHE_NAME = "hooplog-shell-v6";
+const CACHE_NAME = "hooplog-shell-v7";
 const APP_SHELL = [
   "",
   "app.js",
